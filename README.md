@@ -1,6 +1,7 @@
 # Recreando Netflix
 
-**Diseñado con 💗 por [leonidasesteban.com](https://leonidasesteban.com/)**
+**Reto de💗 [leonidasesteban.com](https://leonidasesteban.com/)**
+**Diseñado por💗 [@devedux.com](https://github.com/cristhianLaurente)**
 
 ### Colores
 
